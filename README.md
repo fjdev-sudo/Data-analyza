@@ -81,4 +81,3 @@ Demonstrates: Python data analysis, working with real economic APIs, data visual
 
 ---
 
-*Built as part of applied economics portfolio. VŠE Prague, Applied Informatics.*
