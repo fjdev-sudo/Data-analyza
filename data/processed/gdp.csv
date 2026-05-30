@@ -1,0 +1,364 @@
+country_code,country_name,period,gdp_growth
+CZ,Czech Republic,1996-Q1,5.7
+CZ,Czech Republic,1996-Q2,4.4
+CZ,Czech Republic,1996-Q3,3.7
+CZ,Czech Republic,1996-Q4,3.0
+CZ,Czech Republic,1997-Q1,0.6
+CZ,Czech Republic,1997-Q2,-0.2
+CZ,Czech Republic,1997-Q3,-1.3
+CZ,Czech Republic,1997-Q4,-1.6
+CZ,Czech Republic,1998-Q1,-1.1
+CZ,Czech Republic,1998-Q2,-0.6
+CZ,Czech Republic,1998-Q3,0.0
+CZ,Czech Republic,1998-Q4,0.3
+CZ,Czech Republic,1999-Q1,0.4
+CZ,Czech Republic,1999-Q2,0.5
+CZ,Czech Republic,1999-Q3,1.4
+CZ,Czech Republic,1999-Q4,2.6
+CZ,Czech Republic,2000-Q1,3.9
+CZ,Czech Republic,2000-Q2,4.5
+CZ,Czech Republic,2000-Q3,4.8
+CZ,Czech Republic,2000-Q4,3.9
+CZ,Czech Republic,2001-Q1,3.9
+CZ,Czech Republic,2001-Q2,3.0
+CZ,Czech Republic,2001-Q3,2.2
+CZ,Czech Republic,2001-Q4,2.5
+CZ,Czech Republic,2002-Q1,1.2
+CZ,Czech Republic,2002-Q2,1.5
+CZ,Czech Republic,2002-Q3,1.7
+CZ,Czech Republic,2002-Q4,1.4
+CZ,Czech Republic,2003-Q1,2.7
+CZ,Czech Republic,2003-Q2,3.1
+CZ,Czech Republic,2003-Q3,3.6
+CZ,Czech Republic,2003-Q4,3.8
+CZ,Czech Republic,2004-Q1,3.9
+CZ,Czech Republic,2004-Q2,4.2
+CZ,Czech Republic,2004-Q3,4.6
+CZ,Czech Republic,2004-Q4,5.7
+CZ,Czech Republic,2005-Q1,6.3
+CZ,Czech Republic,2005-Q2,6.5
+CZ,Czech Republic,2005-Q3,6.5
+CZ,Czech Republic,2005-Q4,6.5
+CZ,Czech Republic,2006-Q1,6.6
+CZ,Czech Republic,2006-Q2,7.2
+CZ,Czech Republic,2006-Q3,6.9
+CZ,Czech Republic,2006-Q4,6.4
+CZ,Czech Republic,2007-Q1,6.3
+CZ,Czech Republic,2007-Q2,5.1
+CZ,Czech Republic,2007-Q3,5.2
+CZ,Czech Republic,2007-Q4,5.3
+CZ,Czech Republic,2008-Q1,4.0
+CZ,Czech Republic,2008-Q2,3.9
+CZ,Czech Republic,2008-Q3,2.8
+CZ,Czech Republic,2008-Q4,-0.7
+CZ,Czech Republic,2009-Q1,-4.5
+CZ,Czech Republic,2009-Q2,-5.5
+CZ,Czech Republic,2009-Q3,-5.4
+CZ,Czech Republic,2009-Q4,-3.3
+CZ,Czech Republic,2010-Q1,0.7
+CZ,Czech Republic,2010-Q2,2.6
+CZ,Czech Republic,2010-Q3,3.2
+CZ,Czech Republic,2010-Q4,3.7
+CZ,Czech Republic,2011-Q1,3.1
+CZ,Czech Republic,2011-Q2,2.2
+CZ,Czech Republic,2011-Q3,1.1
+CZ,Czech Republic,2011-Q4,0.8
+CZ,Czech Republic,2012-Q1,0.5
+CZ,Czech Republic,2012-Q2,-0.8
+CZ,Czech Republic,2012-Q3,-1.1
+CZ,Czech Republic,2012-Q4,-1.4
+CZ,Czech Republic,2013-Q1,-1.6
+CZ,Czech Republic,2013-Q2,-0.5
+CZ,Czech Republic,2013-Q3,0.4
+CZ,Czech Republic,2013-Q4,1.6
+CZ,Czech Republic,2014-Q1,1.6
+CZ,Czech Republic,2014-Q2,2.1
+CZ,Czech Republic,2014-Q3,2.7
+CZ,Czech Republic,2014-Q4,2.5
+CZ,Czech Republic,2015-Q1,4.8
+CZ,Czech Republic,2015-Q2,5.2
+CZ,Czech Republic,2015-Q3,5.3
+CZ,Czech Republic,2015-Q4,4.8
+CZ,Czech Republic,2016-Q1,3.2
+CZ,Czech Republic,2016-Q2,2.3
+CZ,Czech Republic,2016-Q3,2.1
+CZ,Czech Republic,2016-Q4,2.4
+CZ,Czech Republic,2017-Q1,3.8
+CZ,Czech Republic,2017-Q2,6.1
+CZ,Czech Republic,2017-Q3,5.9
+CZ,Czech Republic,2017-Q4,5.7
+CZ,Czech Republic,2018-Q1,4.5
+CZ,Czech Republic,2018-Q2,2.3
+CZ,Czech Republic,2018-Q3,2.1
+CZ,Czech Republic,2018-Q4,2.5
+CZ,Czech Republic,2019-Q1,3.4
+CZ,Czech Republic,2019-Q2,3.6
+CZ,Czech Republic,2019-Q3,3.7
+CZ,Czech Republic,2019-Q4,3.3
+CZ,Czech Republic,2020-Q1,-1.5
+CZ,Czech Republic,2020-Q2,-10.6
+CZ,Czech Republic,2020-Q3,-4.7
+CZ,Czech Republic,2020-Q4,-4.5
+CZ,Czech Republic,2021-Q1,-1.3
+CZ,Czech Republic,2021-Q2,9.7
+CZ,Czech Republic,2021-Q3,4.0
+CZ,Czech Republic,2021-Q4,3.9
+CZ,Czech Republic,2022-Q1,4.8
+CZ,Czech Republic,2022-Q2,3.7
+CZ,Czech Republic,2022-Q3,2.0
+CZ,Czech Republic,2022-Q4,1.0
+CZ,Czech Republic,2023-Q1,0.3
+CZ,Czech Republic,2023-Q2,0.2
+CZ,Czech Republic,2023-Q3,-0.3
+CZ,Czech Republic,2023-Q4,0.5
+CZ,Czech Republic,2024-Q1,0.5
+CZ,Czech Republic,2024-Q2,0.5
+CZ,Czech Republic,2024-Q3,1.5
+CZ,Czech Republic,2024-Q4,2.0
+CZ,Czech Republic,2025-Q1,2.4
+CZ,Czech Republic,2025-Q2,2.6
+CZ,Czech Republic,2025-Q3,2.8
+CZ,Czech Republic,2025-Q4,2.7
+CZ,Czech Republic,2026-Q1,2.2
+SK,Slovakia,1996-Q1,5.5
+SK,Slovakia,1996-Q2,4.9
+SK,Slovakia,1996-Q3,7.0
+SK,Slovakia,1996-Q4,7.1
+SK,Slovakia,1997-Q1,6.3
+SK,Slovakia,1997-Q2,6.7
+SK,Slovakia,1997-Q3,5.8
+SK,Slovakia,1997-Q4,3.2
+SK,Slovakia,1998-Q1,4.2
+SK,Slovakia,1998-Q2,2.7
+SK,Slovakia,1998-Q3,0.1
+SK,Slovakia,1998-Q4,8.4
+SK,Slovakia,1999-Q1,2.8
+SK,Slovakia,1999-Q2,1.0
+SK,Slovakia,1999-Q3,1.2
+SK,Slovakia,1999-Q4,-6.4
+SK,Slovakia,2000-Q1,-2.1
+SK,Slovakia,2000-Q2,0.6
+SK,Slovakia,2000-Q3,1.8
+SK,Slovakia,2000-Q4,2.9
+SK,Slovakia,2001-Q1,2.5
+SK,Slovakia,2001-Q2,2.6
+SK,Slovakia,2001-Q3,2.4
+SK,Slovakia,2001-Q4,4.2
+SK,Slovakia,2002-Q1,3.9
+SK,Slovakia,2002-Q2,3.9
+SK,Slovakia,2002-Q3,5.8
+SK,Slovakia,2002-Q4,4.1
+SK,Slovakia,2003-Q1,5.2
+SK,Slovakia,2003-Q2,5.6
+SK,Slovakia,2003-Q3,3.7
+SK,Slovakia,2003-Q4,4.9
+SK,Slovakia,2004-Q1,5.0
+SK,Slovakia,2004-Q2,4.2
+SK,Slovakia,2004-Q3,6.3
+SK,Slovakia,2004-Q4,6.1
+SK,Slovakia,2005-Q1,5.7
+SK,Slovakia,2005-Q2,7.2
+SK,Slovakia,2005-Q3,6.5
+SK,Slovakia,2005-Q4,6.5
+SK,Slovakia,2006-Q1,8.1
+SK,Slovakia,2006-Q2,8.5
+SK,Slovakia,2006-Q3,8.8
+SK,Slovakia,2006-Q4,10.2
+SK,Slovakia,2007-Q1,9.6
+SK,Slovakia,2007-Q2,9.6
+SK,Slovakia,2007-Q3,10.1
+SK,Slovakia,2007-Q4,13.8
+SK,Slovakia,2008-Q1,8.2
+SK,Slovakia,2008-Q2,6.9
+SK,Slovakia,2008-Q3,5.9
+SK,Slovakia,2008-Q4,0.8
+SK,Slovakia,2009-Q1,-6.2
+SK,Slovakia,2009-Q2,-5.8
+SK,Slovakia,2009-Q3,-5.4
+SK,Slovakia,2009-Q4,-4.6
+SK,Slovakia,2010-Q1,7.9
+SK,Slovakia,2010-Q2,7.4
+SK,Slovakia,2010-Q3,6.7
+SK,Slovakia,2010-Q4,5.3
+SK,Slovakia,2011-Q1,3.3
+SK,Slovakia,2011-Q2,2.7
+SK,Slovakia,2011-Q3,2.0
+SK,Slovakia,2011-Q4,2.2
+SK,Slovakia,2012-Q1,2.3
+SK,Slovakia,2012-Q2,1.9
+SK,Slovakia,2012-Q3,1.5
+SK,Slovakia,2012-Q4,0.6
+SK,Slovakia,2013-Q1,0.3
+SK,Slovakia,2013-Q2,0.4
+SK,Slovakia,2013-Q3,0.7
+SK,Slovakia,2013-Q4,1.4
+SK,Slovakia,2014-Q1,2.0
+SK,Slovakia,2014-Q2,2.4
+SK,Slovakia,2014-Q3,2.9
+SK,Slovakia,2014-Q4,3.4
+SK,Slovakia,2015-Q1,4.8
+SK,Slovakia,2015-Q2,5.3
+SK,Slovakia,2015-Q3,5.5
+SK,Slovakia,2015-Q4,5.1
+SK,Slovakia,2016-Q1,3.1
+SK,Slovakia,2016-Q2,2.1
+SK,Slovakia,2016-Q3,1.3
+SK,Slovakia,2016-Q4,1.2
+SK,Slovakia,2017-Q1,2.0
+SK,Slovakia,2017-Q2,2.6
+SK,Slovakia,2017-Q3,3.1
+SK,Slovakia,2017-Q4,3.8
+SK,Slovakia,2018-Q1,4.0
+SK,Slovakia,2018-Q2,4.2
+SK,Slovakia,2018-Q3,4.4
+SK,Slovakia,2018-Q4,3.6
+SK,Slovakia,2019-Q1,3.3
+SK,Slovakia,2019-Q2,2.3
+SK,Slovakia,2019-Q3,1.7
+SK,Slovakia,2019-Q4,1.8
+SK,Slovakia,2020-Q1,-1.1
+SK,Slovakia,2020-Q2,-9.0
+SK,Slovakia,2020-Q3,-0.3
+SK,Slovakia,2020-Q4,0.0
+SK,Slovakia,2021-Q1,3.4
+SK,Slovakia,2021-Q2,13.2
+SK,Slovakia,2021-Q3,3.6
+SK,Slovakia,2021-Q4,3.1
+SK,Slovakia,2022-Q1,1.8
+SK,Slovakia,2022-Q2,0.4
+SK,Slovakia,2022-Q3,0.0
+SK,Slovakia,2022-Q4,0.1
+SK,Slovakia,2023-Q1,0.9
+SK,Slovakia,2023-Q2,2.1
+SK,Slovakia,2023-Q3,2.7
+SK,Slovakia,2023-Q4,2.8
+SK,Slovakia,2024-Q1,2.9
+SK,Slovakia,2024-Q2,2.2
+SK,Slovakia,2024-Q3,1.5
+SK,Slovakia,2024-Q4,1.3
+SK,Slovakia,2025-Q1,0.8
+SK,Slovakia,2025-Q2,0.7
+SK,Slovakia,2025-Q3,0.9
+SK,Slovakia,2025-Q4,0.8
+SK,Slovakia,2026-Q1,0.9
+EU27_2020,EU Average,1996-Q1,1.6
+EU27_2020,EU Average,1996-Q2,1.6
+EU27_2020,EU Average,1996-Q3,1.8
+EU27_2020,EU Average,1996-Q4,2.0
+EU27_2020,EU Average,1997-Q1,2.1
+EU27_2020,EU Average,1997-Q2,2.6
+EU27_2020,EU Average,1997-Q3,2.9
+EU27_2020,EU Average,1997-Q4,3.4
+EU27_2020,EU Average,1998-Q1,3.8
+EU27_2020,EU Average,1998-Q2,2.9
+EU27_2020,EU Average,1998-Q3,2.8
+EU27_2020,EU Average,1998-Q4,2.1
+EU27_2020,EU Average,1999-Q1,2.3
+EU27_2020,EU Average,1999-Q2,2.4
+EU27_2020,EU Average,1999-Q3,3.1
+EU27_2020,EU Average,1999-Q4,3.9
+EU27_2020,EU Average,2000-Q1,4.2
+EU27_2020,EU Average,2000-Q2,4.7
+EU27_2020,EU Average,2000-Q3,4.0
+EU27_2020,EU Average,2000-Q4,3.4
+EU27_2020,EU Average,2001-Q1,3.2
+EU27_2020,EU Average,2001-Q2,2.2
+EU27_2020,EU Average,2001-Q3,1.8
+EU27_2020,EU Average,2001-Q4,1.3
+EU27_2020,EU Average,2002-Q1,0.6
+EU27_2020,EU Average,2002-Q2,1.0
+EU27_2020,EU Average,2002-Q3,1.2
+EU27_2020,EU Average,2002-Q4,1.4
+EU27_2020,EU Average,2003-Q1,1.0
+EU27_2020,EU Average,2003-Q2,0.6
+EU27_2020,EU Average,2003-Q3,0.8
+EU27_2020,EU Average,2003-Q4,1.3
+EU27_2020,EU Average,2004-Q1,2.1
+EU27_2020,EU Average,2004-Q2,2.7
+EU27_2020,EU Average,2004-Q3,2.3
+EU27_2020,EU Average,2004-Q4,2.1
+EU27_2020,EU Average,2005-Q1,1.7
+EU27_2020,EU Average,2005-Q2,1.8
+EU27_2020,EU Average,2005-Q3,2.3
+EU27_2020,EU Average,2005-Q4,2.5
+EU27_2020,EU Average,2006-Q1,3.3
+EU27_2020,EU Average,2006-Q2,3.8
+EU27_2020,EU Average,2006-Q3,3.6
+EU27_2020,EU Average,2006-Q4,3.9
+EU27_2020,EU Average,2007-Q1,3.7
+EU27_2020,EU Average,2007-Q2,3.1
+EU27_2020,EU Average,2007-Q3,3.0
+EU27_2020,EU Average,2007-Q4,2.6
+EU27_2020,EU Average,2008-Q1,2.4
+EU27_2020,EU Average,2008-Q2,1.3
+EU27_2020,EU Average,2008-Q3,0.4
+EU27_2020,EU Average,2008-Q4,-2.0
+EU27_2020,EU Average,2009-Q1,-5.4
+EU27_2020,EU Average,2009-Q2,-5.1
+EU27_2020,EU Average,2009-Q3,-4.3
+EU27_2020,EU Average,2009-Q4,-2.1
+EU27_2020,EU Average,2010-Q1,1.2
+EU27_2020,EU Average,2010-Q2,2.2
+EU27_2020,EU Average,2010-Q3,2.3
+EU27_2020,EU Average,2010-Q4,2.5
+EU27_2020,EU Average,2011-Q1,3.1
+EU27_2020,EU Average,2011-Q2,2.2
+EU27_2020,EU Average,2011-Q3,1.8
+EU27_2020,EU Average,2011-Q4,0.8
+EU27_2020,EU Average,2012-Q1,-0.3
+EU27_2020,EU Average,2012-Q2,-0.7
+EU27_2020,EU Average,2012-Q3,-0.9
+EU27_2020,EU Average,2012-Q4,-1.0
+EU27_2020,EU Average,2013-Q1,-1.1
+EU27_2020,EU Average,2013-Q2,-0.2
+EU27_2020,EU Average,2013-Q3,0.3
+EU27_2020,EU Average,2013-Q4,1.0
+EU27_2020,EU Average,2014-Q1,1.8
+EU27_2020,EU Average,2014-Q2,1.4
+EU27_2020,EU Average,2014-Q3,1.6
+EU27_2020,EU Average,2014-Q4,1.7
+EU27_2020,EU Average,2015-Q1,2.1
+EU27_2020,EU Average,2015-Q2,2.3
+EU27_2020,EU Average,2015-Q3,2.2
+EU27_2020,EU Average,2015-Q4,2.3
+EU27_2020,EU Average,2016-Q1,2.0
+EU27_2020,EU Average,2016-Q2,1.7
+EU27_2020,EU Average,2016-Q3,1.8
+EU27_2020,EU Average,2016-Q4,2.0
+EU27_2020,EU Average,2017-Q1,2.5
+EU27_2020,EU Average,2017-Q2,2.9
+EU27_2020,EU Average,2017-Q3,3.2
+EU27_2020,EU Average,2017-Q4,3.2
+EU27_2020,EU Average,2018-Q1,2.5
+EU27_2020,EU Average,2018-Q2,2.3
+EU27_2020,EU Average,2018-Q3,1.8
+EU27_2020,EU Average,2018-Q4,1.5
+EU27_2020,EU Average,2019-Q1,2.1
+EU27_2020,EU Average,2019-Q2,2.0
+EU27_2020,EU Average,2019-Q3,2.0
+EU27_2020,EU Average,2019-Q4,1.5
+EU27_2020,EU Average,2020-Q1,-2.2
+EU27_2020,EU Average,2020-Q2,-13.1
+EU27_2020,EU Average,2020-Q3,-3.9
+EU27_2020,EU Average,2020-Q4,-3.5
+EU27_2020,EU Average,2021-Q1,0.3
+EU27_2020,EU Average,2021-Q2,14.7
+EU27_2020,EU Average,2021-Q3,5.3
+EU27_2020,EU Average,2021-Q4,5.8
+EU27_2020,EU Average,2022-Q1,5.6
+EU27_2020,EU Average,2022-Q2,4.2
+EU27_2020,EU Average,2022-Q3,2.9
+EU27_2020,EU Average,2022-Q4,1.8
+EU27_2020,EU Average,2023-Q1,1.2
+EU27_2020,EU Average,2023-Q2,0.4
+EU27_2020,EU Average,2023-Q3,0.1
+EU27_2020,EU Average,2023-Q4,0.4
+EU27_2020,EU Average,2024-Q1,0.7
+EU27_2020,EU Average,2024-Q2,0.8
+EU27_2020,EU Average,2024-Q3,1.1
+EU27_2020,EU Average,2024-Q4,1.5
+EU27_2020,EU Average,2025-Q1,1.7
+EU27_2020,EU Average,2025-Q2,1.7
+EU27_2020,EU Average,2025-Q3,1.7
+EU27_2020,EU Average,2025-Q4,1.4
+EU27_2020,EU Average,2026-Q1,1.0
