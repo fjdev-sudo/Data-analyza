@@ -1,4 +1,4 @@
-# ekon-analyza
+# Data-analyza
 
 Macroeconomic comparison: Czech Republic vs Slovakia vs EU (2015–2025).  
 Real data from Eurostat API. Built with Python, Pandas, and Plotly.
